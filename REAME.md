@@ -1,0 +1,1 @@
+Pominięto dodawanie plików wideo i plików detektorów, jako że są bardzo duże (kilka GB w sumie). Wszystkie pliki można znaleźć na moim dysku Google Drive: https://drive.google.com/drive/folders/1P25c80ImJ73fyvyhB2-BlwGymvxEEh6K?usp=sharing
