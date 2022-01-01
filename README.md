@@ -1,7 +1,7 @@
 # Analiza wpływu jakości wideo na skuteczność automatycznej identyfikacji obiektów
 
 
-Repozytorium zawiera pliki z poleceniami oraz kodem, które wykorzystano podczas realizacji tematu pracy. Pominięto dodawanie plików wideo i plików detektorów, jako że są bardzo duże (kilka GB w sumie). Wszystkie pliki można znaleźć na moim dysku Google Drive (dostęp z tylko konta w domenie Politechniki Wrocławskiej): https://drive.google.com/drive/folders/1P25c80ImJ73fyvyhB2-BlwGymvxEEh6K?usp=sharing
+Repozytorium zawiera pliki z poleceniami oraz kodem, które wykorzystano podczas realizacji tematu pracy. Pominięto dodawanie plików wideo i plików detektorów, jako że są bardzo duże (kilka GB w sumie). Wszystkie pliki można znaleźć na moim dysku Google Drive (dostęp tylko z konta w domenie Politechniki Wrocławskiej): https://drive.google.com/drive/folders/1P25c80ImJ73fyvyhB2-BlwGymvxEEh6K?usp=sharing
 
 Aby moć w pełni odwzorować czynności zaprezentowane w napisanej pracy, nleży pobrać udostępniony wyżej folder autora, a następnie przesłać pliki do własnej usługi Google Drive. Ze względu na duży rozmiar niektórych plików, można pominąć pobieranie zawartości następujących folderów: `wideo/logi`, `wideo/skompresowane`, `wideo/wyniki` oraz `detektor/wagi`. Struktura pobrancyh folderów i plików powinna zostać jednak zachowana. 
 
